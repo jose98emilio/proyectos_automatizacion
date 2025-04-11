@@ -1,0 +1,7 @@
+tests/	Scripts de prueba (test cases) usando pytest u otro framework
+pages/	Page Object Models — una clase por página
+utils/	Funciones generales como iniciar navegador, manejo de cookies, etc.
+data/	Archivos con datos de prueba (pueden ser .json, .csv, .xlsx, etc.)
+.env	Variables sensibles como URLs y credenciales
+requirements.txt	Paquetes necesarios para que corra el proyecto
+conftest.py	Config común si usas pytest
