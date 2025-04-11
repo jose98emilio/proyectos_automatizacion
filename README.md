@@ -12,11 +12,17 @@ Este repositorio contiene distintos proyectos de automatización de pruebas util
 - pytest-xdist (opcional para pruebas en paralelo)
 
 ## 📁 Estructura del Proyecto
-setprueba1/ 
+setprueba1/
+
 ├── data/ # Datos para pruebas
+
 ├── pages/ # Clases Page Object 
+
 ├── test/ # Casos de prueba con Pytest
+
 ├── utils/ # Utilidades generales (cookies, configuración, etc.) 
+
 ├── requirements.txt # Librerías necesarias 
+
 └── README.md # Documentación del proyecto
 
